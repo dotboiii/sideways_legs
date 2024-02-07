@@ -1,0 +1,6 @@
+Changelog for sideways_legs
+Version 0.1.0 (2024-02-06)
+
+- Added the item 'Sideways Legs'. Same stats as the regular exoskeleton but with a different grid shape
+- Implemented recipes for rotating and unrotating the legs.
+- Sideways legs item is part of the standard exoskeleton research

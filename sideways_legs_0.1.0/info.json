@@ -1,0 +1,9 @@
+{
+    "name": "sideways_legs",
+    "version": "0.1.0",
+    "title": "Sideways Legs",
+    "author": ".boi",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"],
+    "description": "This mod adds sideways legs to factorio."
+  }
